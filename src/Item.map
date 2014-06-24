@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "Item.js",
+  "sourceRoot": "",
+  "sources": [
+    "Item.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA,IAAA,IAAA;;AAAA;AACe,EAAA,cAAE,EAAF,EAAO,KAAP,EAAe,IAAf,EAAsB,KAAtB,GAAA;AAA8B,IAA7B,IAAC,CAAA,KAAA,EAA4B,CAAA;AAAA,IAAxB,IAAC,CAAA,QAAA,KAAuB,CAAA;AAAA,IAAhB,IAAC,CAAA,OAAA,IAAe,CAAA;AAAA,IAAT,IAAC,CAAA,QAAA,KAAQ,CAA9B;EAAA,CAAb;;cAAA;;IADF,CAAA"
+}
